@@ -1,0 +1,54 @@
+body{
+	 background-image: linear-gradient(	 #bfbfbf,	 #bfbfbf);
+  
+}
+form{
+	margin-top: 70px;
+	margin-bottom: 150px;
+}
+ #mainForm{
+	width: 300px;
+	margin: auto;
+
+}
+#secondRow{
+	margin-bottom: 25px;
+}
+#thirdRow{
+	margin-top: 25px;
+}
+#foodPackage{
+   margin-top: 25px;
+}
+#row8{
+	margin-top: 25px;
+}
+ .mb-0{
+ 	background-color:  #BFC0C0;
+ 	transition: 0.5s;
+ }
+ .card-header{
+    background-color:  #BFC0C0;
+ 	transition: 0.5s;
+ }
+ .btn{
+ 	text-align: left;
+ 	width: 100%;
+ }
+ #text:active, #text:hover{
+ 	color: yellow;
+ }
+#checkboxAlign{
+	margin-left: 30px;
+	margin-bottom: 35px;
+}
+#breakfast{
+	margin-top: 8px;
+}
+.dishesImage{
+	width: 30px; 
+	height: 30px;
+}
+.container{
+	margin-left: 40%;
+}
